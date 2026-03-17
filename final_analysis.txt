@@ -1,0 +1,5 @@
+Analyzing flutter_package_renamer...
+
+warning - lib\src\android_editor.dart:3:8 - Unused import: 'file_utils.dart'. Try removing the import directive. - unused_import
+
+1 issue found.

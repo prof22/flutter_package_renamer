@@ -1,0 +1,19 @@
+Analyzing flutter_package_renamer...
+
+  error - lib\src\android_editor.dart:28:26 - The expression doesn't evaluate to a function, so it can't be invoked. - invocation_of_non_function_expression
+  error - lib\src\android_editor.dart:28:58 - Expected to find ')'. - expected_token
+  error - lib\src\android_editor.dart:28:62 - Expected an identifier. - missing_identifier
+  error - lib\src\android_editor.dart:28:72 - Expected to find ')'. - expected_token
+  error - lib\src\android_editor.dart:28:72 - Expected to find ']'. - expected_token
+  error - lib\src\android_editor.dart:29:22 - The expression doesn't evaluate to a function, so it can't be invoked. - invocation_of_non_function_expression
+  error - lib\src\android_editor.dart:29:58 - Expected to find ')'. - expected_token
+  error - lib\src\android_editor.dart:29:62 - Expected an identifier. - missing_identifier
+  error - lib\src\android_editor.dart:29:72 - Expected to find ')'. - expected_token
+  error - lib\src\android_editor.dart:29:72 - Expected to find ']'. - expected_token
+warning - lib\src\android_editor.dart:3:8 - Unused import: 'file_utils.dart'. Try removing the import directive. - unused_import
+   info - lib\src\android_editor.dart:28:33 - Invalid regular expression syntax. Try correcting the regular expression. - valid_regexps
+   info - lib\src\android_editor.dart:28:64 - Unnecessary escape in string literal. Remove the '\' escape. - unnecessary_string_escapes
+   info - lib\src\android_editor.dart:29:29 - Invalid regular expression syntax. Try correcting the regular expression. - valid_regexps
+   info - lib\src\android_editor.dart:29:64 - Unnecessary escape in string literal. Remove the '\' escape. - unnecessary_string_escapes
+
+15 issues found.
