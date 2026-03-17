@@ -2,7 +2,6 @@ name: flutter_package_renamer
 description: A command-line tool to rename Android package names and iOS bundle IDs with undo support.
 version: 1.0.0
 homepage: https://github.com/prof22/flutter_package_renamer
-publish_to: "https://pub.dev"
 
 environment:
   sdk: ^3.11.0
